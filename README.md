@@ -4,9 +4,11 @@ FPL is an online competition which includes managing an imaginary team using pla
 
 How to use this code?
 
-Step 1. Run file ‘FPL_data_preprocessing.ipynb’
+Step 1. Download the whole repository
 
-Step 2. Run file ‘FPL_main.ipynb’
+Step 2. Run file ‘FPL_data_preprocessing.ipynb’
+
+Step 3. Run file ‘FPL_main.ipynb’
 
 DONE!!
 
