@@ -12,5 +12,6 @@ Step 3. Run file ‘FPL_main.ipynb’
 
 DONE!!
 
-Check the output in ‘FPL_main.ipynb’ notebook for key insights
- 
+Check the output in ‘FPL_main.ipynb’ notebook for key insights.
+
+Disclaimer: This code can be used before weekly transfer deadline for accurate stats.
